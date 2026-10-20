@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.vs/
+*.code-workspace
+.pytest_cache/
+Thumbs.db
+.DS_Store
+~$*
